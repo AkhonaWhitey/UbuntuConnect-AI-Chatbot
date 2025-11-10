@@ -1,5 +1,4 @@
 # UbuntuConnect-AI-Chatbot
-# 🌍 UbuntuConnect – AI Chatbot
 
 ## 🧠 Introduction
 **UbuntuConnect** is a multilingual, no-code chatbot designed to make artificial intelligence (AI) easy to understand and use.  
@@ -115,10 +114,6 @@ This project was collaboratively developed by the **Tech Gurus Team** as part of
 - Henry Mkhonto
 - Bongokwakhe Mhlongo
 - Pinky Mbhamali
----
-
-## 📄 License
-This project is open-source under the [MIT License](LICENSE).
 
 ---
 
