@@ -111,7 +111,7 @@ This project was collaboratively developed by the **Tech Gurus Team** as part of
 **Contributors:**
 - Akhona Whitey  
 - Yazeed Adams
-- Henry Mkhonto
+- Hendry Mkhonto
 - Bongokwakhe Mhlongo
 - Pinky Mbhamali
 
